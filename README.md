@@ -33,12 +33,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/rafaeldevvv/front-end-mentor-multi-step-form](https://github.com/rafaeldevvv/front-end-mentor-multi-step-form)
+- Live Site URL: [https://rafaeldevvv.github.io/front-end-mentor-multi-step-form](https://rafaeldevvv.github.io/front-end-mentor-multi-step-form)
 
 ## My process
 
