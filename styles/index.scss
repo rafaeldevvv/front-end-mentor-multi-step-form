@@ -136,6 +136,8 @@ legend {
   color: var(--marine-blue);
   font-weight: 700;
 
+  text-align: left;
+
   &::placeholder {
     color: var(--cool-gray);
   }

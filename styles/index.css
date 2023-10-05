@@ -115,6 +115,7 @@ p {
   border-radius: 0.3rem;
   color: var(--marine-blue);
   font-weight: 700;
+  text-align: left;
 }
 .text-form-field::-moz-placeholder {
   color: var(--cool-gray);
